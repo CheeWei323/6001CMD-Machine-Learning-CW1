@@ -30,3 +30,4 @@ print(f"monthly_rent type: {df['monthly_rent'].dtype}")
 print(f"size type: {df['size'].dtype}")
 print(f"location type: {df['location'].dtype}")
 print(f"furnished type: {df['furnished'].dtype}")
+
